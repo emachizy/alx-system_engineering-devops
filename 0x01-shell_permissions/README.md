@@ -1,3 +1,3 @@
-# Shell permission
+# Shell Permissions
 
-Script describing different shell permission commands
+commands for shell permissions
